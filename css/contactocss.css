@@ -1,0 +1,88 @@
+		a{
+			color: black;
+		}
+
+		a:hover{
+			background-color: red;
+		}
+
+		footer{
+		
+		
+		}
+
+		.experiencia_laboral{
+			background-color: black;
+			width: 950px;
+		}
+
+
+		h3{
+			color: white;
+		}
+
+		.fondo{
+			background-image: url("file:///C:/Users/pupil/OneDrive/Escritorio/Portfolioweb/images/Fondos-06.png");
+			background-size: 100%;
+		}
+
+		#fondo1{
+			background-color: white;
+
+		}
+
+		#textarea{
+			height: 130px;
+		}
+
+		#textnombre{
+			background-color: transparent;
+			border-radius: 0px;
+			border-top: 0px;
+			border-right: 0px;
+			border-left: 0px;
+			border-bottom-color: black;
+			padding-left: 0px;
+		}
+
+		#email{
+			background-color: transparent;
+			border-radius: 0px;
+			border-top: 0px;
+			border-right: 0px;
+			border-left: 0px;
+			border-bottom-color: black;
+			padding-left: 0px;
+		}
+
+		#textasunto{
+			background-color: transparent;
+			border-radius: 0px;
+			border-top: 0px;
+			border-right: 0px;
+			border-left: 0px;
+			border-bottom-color: black;
+			padding-left: 0px;			
+		}
+
+		#textarea{
+			background-color: transparent;
+			border-radius: 0px;
+			border-top: 0px;
+			border-right: 0px;
+			border-left: 0px;
+			border-bottom-color: black;
+			padding-left: 0px;				
+		}
+
+		.patro{
+			line-height: 0;
+		}
+
+		#boton1{
+
+			font-family: 'Montserrat', sans-serif;
+			width: 277px;
+			height: 45px;
+
+		}

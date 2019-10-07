@@ -1,0 +1,37 @@
+		a{
+			color: black;
+		}
+
+		a:hover{
+			background-color: red;
+		}
+
+		footer{
+		
+		
+		}
+
+		.experiencia_laboral{
+			background-color: black;
+			width: 950px;
+		}
+
+
+		h3{
+			color: white;
+		}
+
+		.fondo{
+			background-image: url("file:///C:/Users/pupil/OneDrive/Escritorio/Portfolioweb/images/Fondos-06.png");
+		}
+
+		#fondo1{
+			background-color: white;
+			background-size: 200px 200px;
+
+		}
+
+		.patro{
+			line-height: 0;
+		}
+

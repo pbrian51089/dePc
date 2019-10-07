@@ -1,0 +1,55 @@
+		a{
+			color: black;
+		}
+
+		a:hover{
+			background-color: red;
+		}
+
+
+		.experiencia_laboral{
+			background-color: black;
+			width: 960px;
+		}
+
+
+		h3{
+			color: white;
+		}
+
+		.patro{
+			line-height: 0;
+		}
+
+		h1{
+			font-family: 'Montserrat', sans-serif;
+		}
+
+		p{
+			font-family: 'Roboto', sans-serif;
+
+		}
+
+
+		#boton_cv{
+			font-family: 'Montserrat', sans-serif;
+			width: 277px;
+			height: 45px;
+		}
+
+		.mio{
+			background-image: url("file:///C:/Users/pupil/OneDrive/Escritorio/Portfolioweb/images/Fondos-06.png");
+			width: 960px;
+		}
+
+		#primero{
+			height: 200px;
+		}
+
+		#segundo{
+			background-color: white;}
+
+		.letrap{
+			color: white;
+		}
+																																										
